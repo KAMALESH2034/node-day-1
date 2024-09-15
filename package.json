@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "node_day1",
+  "version": "1.0.0",
+  "description": "day_1_task",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
